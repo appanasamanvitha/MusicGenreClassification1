@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../ml model dep"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ml model dep"
+	}
+}
